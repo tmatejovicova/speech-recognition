@@ -11,4 +11,5 @@ second part Deep Neural Networks (DNNs) are used in a DNN-HMM hybrid model. The 
 Acoustic-Phonetic speech database is used for training to construct a speaker independent phone
 recognition system.
 
+## Note
 See report.pdf for more information, analysis and conclusions.
