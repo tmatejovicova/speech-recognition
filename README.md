@@ -1,6 +1,6 @@
 # TIMIT Speech Recognition
 Author: Tatiana Matejovicova  
-University of Cambridge
+University of Cambridge  
 17 December 2018
 
 ## Abstract
